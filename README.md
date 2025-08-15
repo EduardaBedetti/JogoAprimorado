@@ -1,2 +1,2 @@
 # JogoAprimorado
-Segunda fase do jogo chute, utilizando comandos de html e funções mais avançadas.
+Versão aprimorada do jogo de adivinhação de numeros
